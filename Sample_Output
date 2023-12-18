@@ -1,0 +1,21 @@
+==================================Game Begins!================================
+Enter ur choice(Stone/Paper/Scissor)
+stone
+You entered stone and computer has paper so computer wins!!!
+==============================================================================
+Do you want to play again?[if yes pls enter 1 else 0]
+1
+Enter ur choice(stone/paper/scissor)
+paper
+You entered paper and computer has paper so match tie!
+==============================================================================
+Do you want to play again?[if yes pls enter 1 else 0]
+1
+Enter ur choice(stone/paper/scissor)
+stone
+You entered stone and computer has scissor so you wins!
+==============================================================================
+Do you want to play again?[if yes pls enter 1 else 0]
+0
+...Thanks for Playing!...
+==============================================================================
